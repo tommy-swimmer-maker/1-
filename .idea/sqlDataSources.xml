@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="e2e9d8de-e324-4ddf-9e42-17083b19f7dc" name="erfan.sqlite Mapping">
+      <data-sources db="fc0db316-4437-4f6b-906b-6b800bdd32f6" ddl="df0691bd-4490-4ddb-8c22-5d8c617155c0" />
+      <scope>
+        <node kind="database" negative="1" />
+      </scope>
+    </mapping>
+  </component>
+</project>
